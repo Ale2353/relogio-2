@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+
+}
+
+h1 {
+ font-size: 35px;
+ font-family: 'Righteous', cursive;
+padding: 60px;
+}
+
+.relogio{
+    font-family: 'Stick No Bills', sans-serif;
+    font-size: 150px;
+    padding: 0px;
+}
+
+.frase {
+    font-family: 'Lily Script One', cursive;
+    font-size: 20px; 
+
+}
+
+.imagem {
+   position: absolute;
+   top:50px;
+   left:180px;
+   width:20px;
+   height: 30px;
+   
+}
